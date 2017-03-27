@@ -1,2 +1,13 @@
 # ngCamRecorderMultiple
-Same as ngCamRecorde but works with ng-repeat
+Same as ngCamRecord but works with ng-repeat
+
+## Run the demo
+
+- git clone https://github.com/rahil471/ngCamRecorderMultiple.git
+- cd ngCamRecorderMultiple
+- npm i
+- node server.js
+
+
+## Limitations
+After each recording it is necessary to hit clear or, application will break.
