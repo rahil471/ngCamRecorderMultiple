@@ -7,6 +7,7 @@ Same as ngCamRecord but works with ng-repeat
 - cd ngCamRecorderMultiple
 - npm i
 - node server.js
+- localhost:3000
 
 
 ## Limitations
